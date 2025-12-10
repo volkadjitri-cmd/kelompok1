@@ -31,7 +31,7 @@ export default function IntroOverlay() {
     };
   }, [isVisible, isExiting, handleClose]);
 
-  const members = ["Haikal J", "Hasna", "Dewa", "Pingki", "Nabilla"];
+  const members = ["Haikal J", "Hasna", "Dewa", "Pingki", "Nabilla", "Kaysan"];
 
   return (
     <AnimatePresence>
