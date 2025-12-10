@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Lukisan Pangeran Diponegoro",
+    "image": "/img/galeri/diponegoro-painting.jpg",
+    "description": "Lukisan potret Pangeran Diponegoro karya Raden Saleh, melukiskan pahlawan nasional dengan pakaian tradisional Jawa.",
+    "year": 1857,
+    "category": "Lukisan"
+  },
+  {
+    "id": 2,
+    "title": "Penangkapan Diponegoro",
+    "image": "/img/galeri/penangkapan.jpg",
+    "description": "Lukisan karya Raden Saleh yang menggambarkan momen penangkapan Pangeran Diponegoro di Magelang pada 28 Maret 1830.",
+    "year": 1857,
+    "category": "Lukisan"
+  },
+  {
+    "id": 3,
+    "title": "Peta Perang Jawa",
+    "image": "/img/galeri/peta-perang.jpg",
+    "description": "Peta wilayah pertempuran Perang Jawa tahun 1825-1830, menunjukkan lokasi-lokasi strategis dan benteng Belanda.",
+    "year": 1830,
+    "category": "Peta"
+  },
+  {
+    "id": 4,
+    "title": "Benteng Belanda",
+    "image": "/img/galeri/benteng-belanda.jpg",
+    "description": "Ilustrasi salah satu benteng dalam sistem Benteng Stelsel yang dibangun Belanda untuk membatasi pergerakan Diponegoro.",
+    "year": 1828,
+    "category": "Ilustrasi"
+  },
+  {
+    "id": 5,
+    "title": "Pasukan Diponegoro",
+    "image": "/img/galeri/pasukan-diponegoro.jpg",
+    "description": "Ilustrasi pasukan Pangeran Diponegoro dengan senjata tradisional seperti keris, tombak, dan pedang.",
+    "year": 1827,
+    "category": "Ilustrasi"
+  },
+  {
+    "id": 6,
+    "title": "Dokumen Arsip Kolonial",
+    "image": "/img/galeri/dokumen-arsip.jpg",
+    "description": "Dokumen arsip kolonial Belanda yang mencatat peristiwa-peristiwa selama Perang Jawa.",
+    "year": 1830,
+    "category": "Dokumen"
+  },
+  {
+    "id": 7,
+    "title": "Keris Pangeran Diponegoro",
+    "image": "/img/galeri/keris-diponegoro.jpg",
+    "description": "Replika keris yang konon milik Pangeran Diponegoro, senjata pusaka yang menemaninya dalam pertempuran.",
+    "year": 1825,
+    "category": "Artefak"
+  },
+  {
+    "id": 8,
+    "title": "Tegalrejo",
+    "image": "/img/galeri/tegalrejo.jpg",
+    "description": "Lukisan pemandangan Tegalrejo, kediaman Pangeran Diponegoro sebelum perang dimulai.",
+    "year": 1825,
+    "category": "Lukisan"
+  },
+  {
+    "id": 9,
+    "title": "Pertempuran Gerilya",
+    "image": "/img/galeri/pertempuran-gerilya.jpg",
+    "description": "Ilustrasi pertempuran gerilya antara pasukan Diponegoro melawan tentara kolonial Belanda.",
+    "year": 1827,
+    "category": "Ilustrasi"
+  },
+  {
+    "id": 10,
+    "title": "Kiai Mojo",
+    "image": "/img/galeri/kiai-mojo.jpg",
+    "description": "Lukisan Kiai Mojo, penasihat spiritual Pangeran Diponegoro yang berperan memberikan legitimasi religius perlawanan.",
+    "year": 1826,
+    "category": "Lukisan"
+  },
+  {
+    "id": 11,
+    "title": "Perjanjian Giyanti",
+    "image": "/img/galeri/perjanjian.jpg",
+    "description": "Dokumen sejarah terkait pembagian wilayah Kesultanan Mataram yang menjadi latar belakang ketegangan dengan Belanda.",
+    "year": 1755,
+    "category": "Dokumen"
+  },
+  {
+    "id": 12,
+    "title": "Makam Leluhur Diponegoro",
+    "image": "/img/galeri/makam-leluhur.jpg",
+    "description": "Ilustrasi makam leluhur Diponegoro di Tegalrejo yang menjadi pemicu utama pecahnya Perang Jawa.",
+    "year": 1825,
+    "category": "Ilustrasi"
+  }
+]

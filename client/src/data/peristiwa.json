@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Perang Jawa Dimulai",
+    "slug": "perang-dimulai",
+    "year": 1825,
+    "month": "Juli",
+    "image": "/img/peristiwa/perang-dimulai.jpg",
+    "summary": "Perang Jawa meletus setelah pemasangan patok jalan melalui makam leluhur Diponegoro.",
+    "content": "Perang Jawa dimulai pada bulan Juli 1825 setelah pemerintah kolonial Belanda memutuskan untuk membangun jalan yang melewati tanah milik Pangeran Diponegoro di Tegalrejo. Jalan tersebut akan melintasi makam leluhur Diponegoro, yang dianggap sebagai penghinaan besar terhadap kehormatan dan tradisi Jawa.\n\nPangeran Diponegoro menolak rencana pembangunan jalan tersebut, namun Belanda tetap memasang patok-patok penanda jalan. Tindakan ini memicu kemarahan Diponegoro dan para pengikutnya. Pada tanggal 20 Juli 1825, Diponegoro menyatakan perang terhadap Belanda.\n\nPerlawanan ini dengan cepat mendapat dukungan luas dari rakyat Jawa, terutama dari kalangan santri dan petani yang sudah lama menderita akibat kebijakan tanam paksa dan pajak yang memberatkan. Para ulama turut memberikan legitimasi religius dengan menyebut perlawanan ini sebagai jihad melawan penjajah kafir.",
+    "tokoh": ["diponegoro", "kiai-mojo"],
+    "lokasi": "Tegalrejo, Yogyakarta",
+    "referensi": ["Carey, Peter. 2007. The Power of Prophecy: Prince Dipanagara and the End of an Old Order in Java.", "Louw, P.J.F. 1894-1909. De Java-Oorlog van 1825-30."]
+  },
+  {
+    "title": "Pertempuran Plered",
+    "slug": "pertempuran-plered",
+    "year": 1825,
+    "month": "Agustus",
+    "image": "/img/peristiwa/pertempuran-plered.jpg",
+    "summary": "Pasukan Diponegoro berhasil merebut Plered dan mengalahkan pasukan Belanda.",
+    "content": "Pertempuran Plered merupakan salah satu kemenangan besar pasukan Diponegoro di awal perang. Plered yang merupakan bekas ibukota Kesultanan Mataram memiliki nilai strategis dan simbolis yang tinggi.\n\nPasukan Diponegoro yang dipimpin oleh Sentot Alibasya berhasil mengalahkan pasukan Belanda dan merebut Plered. Kemenangan ini meningkatkan moral pasukan perlawanan dan menarik lebih banyak dukungan dari masyarakat.\n\nSetelah kemenangan di Plered, pengaruh Diponegoro semakin meluas ke berbagai wilayah di Jawa Tengah. Banyak bupati dan pemimpin lokal yang kemudian bergabung dengan perlawanan.",
+    "tokoh": ["sentot-alibasya", "nyai-ageng-serang"],
+    "lokasi": "Plered, Yogyakarta",
+    "referensi": ["Carey, Peter. 2007. The Power of Prophecy.", "Arsip Nasional Republik Indonesia."]
+  },
+  {
+    "title": "Perang Gerilya 1827",
+    "slug": "gerilya-1827",
+    "year": 1827,
+    "month": "Maret - Desember",
+    "image": "/img/peristiwa/gerilya-1827.jpg",
+    "summary": "Diponegoro mengubah strategi menjadi perang gerilya untuk menghadapi Belanda.",
+    "content": "Memasuki tahun 1827, Pangeran Diponegoro mengubah strategi perangnya dari pertempuran terbuka menjadi perang gerilya. Strategi ini terbukti sangat efektif karena pasukan Diponegoro dapat memanfaatkan pengetahuan mereka tentang medan dan dukungan rakyat.\n\nPasukan gerilya Diponegoro menyerang pos-pos Belanda, konvoi perbekalan, dan patroli-patroli musuh. Mereka bergerak cepat dan menghilang sebelum Belanda dapat merespons. Taktik ini sangat melelahkan pasukan kolonial yang tidak terbiasa dengan kondisi medan di Jawa.\n\nKiai Mojo berperan penting dalam menjaga semangat pasukan dengan memberikan dorongan spiritual. Beliau mengajarkan bahwa perjuangan melawan penjajah adalah bentuk jihad yang mulia.",
+    "tokoh": ["diponegoro", "kiai-mojo", "sentot-alibasya", "nyai-ageng-serang", "prawirodigdoyo"],
+    "lokasi": "Jawa Tengah",
+    "referensi": ["Carey, Peter. 2007. The Power of Prophecy.", "Sagimun M.D. 1965. Pahlawan Dipanegara Berjuang."]
+  },
+  {
+    "title": "Benteng Stelsel",
+    "slug": "benteng-stelsel",
+    "year": 1827,
+    "month": "September",
+    "image": "/img/peristiwa/benteng-stelsel.jpg",
+    "summary": "Belanda menerapkan sistem benteng untuk mempersempit ruang gerak Diponegoro.",
+    "content": "Menghadapi efektivitas taktik gerilya Diponegoro, Jenderal de Kock menerapkan strategi Benteng Stelsel (Sistem Benteng). Strategi ini melibatkan pembangunan jaringan benteng-benteng kecil yang tersebar di seluruh wilayah perlawanan.\n\nBenteng-benteng ini dihubungkan dengan jalan-jalan yang dijaga ketat, sehingga membatasi ruang gerak pasukan Diponegoro. Setiap benteng menjadi basis untuk patroli dan operasi militer melawan pasukan gerilya.\n\nStrategi ini mulai menunjukkan hasil. Wilayah yang dapat dikuasai oleh pasukan Diponegoro semakin menyempit, dan suplai makanan serta senjata menjadi semakin sulit didapat.",
+    "tokoh": ["diponegoro"],
+    "lokasi": "Seluruh Jawa Tengah",
+    "referensi": ["Louw, P.J.F. 1894-1909. De Java-Oorlog van 1825-30.", "Carey, Peter. 2007. The Power of Prophecy."]
+  },
+  {
+    "title": "Serangan Balik 1828",
+    "slug": "serangan-balik-1828",
+    "year": 1828,
+    "month": "April - Agustus",
+    "image": "/img/peristiwa/serangan-balik-1828.jpg",
+    "summary": "Pasukan Diponegoro melancarkan serangan besar melawan benteng-benteng Belanda.",
+    "content": "Meskipun ruang gerak semakin terbatas akibat Benteng Stelsel, pasukan Diponegoro tidak menyerah. Pada tahun 1828, mereka melancarkan serangkaian serangan balik terhadap benteng-benteng Belanda.\n\nSentot Alibasya dan Pangeran Mangkubumi memimpin serangan-serangan ini. Beberapa benteng berhasil direbut, meskipun kerugian di pihak perlawanan juga cukup besar.\n\nSerangan balik ini menunjukkan bahwa semangat perlawanan masih kuat, meskipun kondisi semakin sulit. Namun, kekuatan pasukan Diponegoro terus terkikis akibat kekurangan logistik dan tentara.",
+    "tokoh": ["sentot-alibasya", "pangeran-mangkubumi", "prawirodigdoyo"],
+    "lokasi": "Berbagai lokasi di Jawa Tengah",
+    "referensi": ["Carey, Peter. 2007. The Power of Prophecy.", "Arsip Nasional Republik Indonesia."]
+  },
+  {
+    "title": "Penangkapan Pangeran Diponegoro",
+    "slug": "penangkapan-diponegoro",
+    "year": 1830,
+    "month": "28 Maret",
+    "image": "/img/peristiwa/penangkapan-diponegoro.jpg",
+    "summary": "Diponegoro ditangkap oleh Belanda saat perundingan damai di Magelang.",
+    "content": "Pada tanggal 28 Maret 1830, Pangeran Diponegoro ditangkap oleh Belanda di Magelang. Peristiwa ini menandai berakhirnya Perang Jawa yang telah berlangsung selama lima tahun.\n\nDiponegoro datang ke Magelang untuk melakukan perundingan damai dengan Belanda. Namun, ternyata ini adalah jebakan. Belanda menolak tuntutan Diponegoro untuk diakui sebagai Sultan dan Pelindung Agama Islam di Jawa, kemudian menangkapnya.\n\nPenangkapan ini dilakukan dengan cara yang tidak terhormat, melanggar janji aman yang telah diberikan. Diponegoro kemudian diasingkan ke Manado, lalu dipindahkan ke Makassar, di mana beliau wafat pada tahun 1855.\n\nPerang Jawa mengakibatkan korban yang sangat besar: diperkirakan 200.000 orang Jawa dan 15.000 tentara Belanda serta sekutunya tewas. Perang ini juga menguras keuangan kolonial Belanda.",
+    "tokoh": ["diponegoro"],
+    "lokasi": "Magelang, Jawa Tengah",
+    "referensi": ["Carey, Peter. 2007. The Power of Prophecy: Prince Dipanagara and the End of an Old Order in Java.", "Louw, P.J.F. 1894-1909. De Java-Oorlog van 1825-30.", "Sagimun M.D. 1965. Pahlawan Dipanegara Berjuang."]
+  }
+]

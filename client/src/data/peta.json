@@ -1,0 +1,97 @@
+{
+  "mapImage": "/img/peta/java-war-map.jpg",
+  "title": "Peta Perang Jawa 1825-1830",
+  "description": "Peta menunjukkan wilayah-wilayah penting selama Perang Jawa, termasuk lokasi pertempuran, benteng-benteng Belanda, dan markas pasukan Diponegoro.",
+  "locations": [
+    {
+      "id": 1,
+      "name": "Tegalrejo",
+      "type": "Markas",
+      "description": "Kediaman Pangeran Diponegoro sebelum perang. Tempat dimulainya perlawanan setelah pemasangan patok jalan oleh Belanda.",
+      "coordinates": { "x": 45, "y": 52 },
+      "year": 1825,
+      "relatedEvent": "perang-dimulai"
+    },
+    {
+      "id": 2,
+      "name": "Yogyakarta",
+      "type": "Kota",
+      "description": "Ibukota Kesultanan Yogyakarta yang dikuasai Belanda. Menjadi pusat pemerintahan kolonial di Jawa Tengah.",
+      "coordinates": { "x": 48, "y": 55 },
+      "year": 1825,
+      "relatedEvent": "perang-dimulai"
+    },
+    {
+      "id": 3,
+      "name": "Plered",
+      "type": "Pertempuran",
+      "description": "Bekas ibukota Kesultanan Mataram. Lokasi pertempuran penting dan kemenangan besar pasukan Diponegoro.",
+      "coordinates": { "x": 50, "y": 50 },
+      "year": 1825,
+      "relatedEvent": "pertempuran-plered"
+    },
+    {
+      "id": 4,
+      "name": "Selarong",
+      "type": "Markas",
+      "description": "Gua Selarong menjadi markas gerilya Pangeran Diponegoro. Dari sinilah banyak strategi perlawanan disusun.",
+      "coordinates": { "x": 42, "y": 58 },
+      "year": 1826,
+      "relatedEvent": "gerilya-1827"
+    },
+    {
+      "id": 5,
+      "name": "Magelang",
+      "type": "Kota",
+      "description": "Lokasi penangkapan Pangeran Diponegoro pada 28 Maret 1830 saat perundingan damai.",
+      "coordinates": { "x": 40, "y": 45 },
+      "year": 1830,
+      "relatedEvent": "penangkapan-diponegoro"
+    },
+    {
+      "id": 6,
+      "name": "Semarang",
+      "type": "Benteng",
+      "description": "Basis utama militer Belanda di Jawa Tengah. Pusat logistik dan pengiriman pasukan.",
+      "coordinates": { "x": 55, "y": 35 },
+      "year": 1827,
+      "relatedEvent": "benteng-stelsel"
+    },
+    {
+      "id": 7,
+      "name": "Surakarta",
+      "type": "Kota",
+      "description": "Ibukota Kasunanan Surakarta. Wilayah yang tetap netral namun berpengaruh terhadap perkembangan perang.",
+      "coordinates": { "x": 60, "y": 52 },
+      "year": 1825,
+      "relatedEvent": "perang-dimulai"
+    },
+    {
+      "id": 8,
+      "name": "Kedu",
+      "type": "Pertempuran",
+      "description": "Wilayah pertempuran intensif antara pasukan Diponegoro dan Belanda. Banyak benteng dibangun di sini.",
+      "coordinates": { "x": 35, "y": 48 },
+      "year": 1828,
+      "relatedEvent": "serangan-balik-1828"
+    },
+    {
+      "id": 9,
+      "name": "Bagelen",
+      "type": "Pertempuran",
+      "description": "Wilayah perlawanan yang dipimpin oleh Sentot Alibasya. Terkenal dengan pertempuran gerilya yang sengit.",
+      "coordinates": { "x": 28, "y": 55 },
+      "year": 1827,
+      "relatedEvent": "gerilya-1827"
+    },
+    {
+      "id": 10,
+      "name": "Banyumas",
+      "type": "Pertempuran",
+      "description": "Wilayah barat perlawanan. Pasukan Diponegoro beberapa kali melakukan serangan ke wilayah ini.",
+      "coordinates": { "x": 22, "y": 58 },
+      "year": 1828,
+      "relatedEvent": "serangan-balik-1828"
+    }
+  ]
+}

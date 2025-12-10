@@ -1,0 +1,129 @@
+[
+  {
+    "year": 1825,
+    "title": "Awal Perang Jawa",
+    "events": [
+      {
+        "month": "Juli",
+        "title": "Perang Dimulai",
+        "slug": "perang-dimulai",
+        "description": "Pemasangan patok jalan melalui makam leluhur memicu perlawanan Pangeran Diponegoro.",
+        "image": "/img/timeline/1825-juli.jpg"
+      },
+      {
+        "month": "Agustus",
+        "title": "Pertempuran Plered",
+        "slug": "pertempuran-plered",
+        "description": "Kemenangan besar pasukan Diponegoro di bekas ibukota Kesultanan Mataram.",
+        "image": "/img/timeline/1825-agustus.jpg"
+      },
+      {
+        "month": "September - Desember",
+        "title": "Perlawanan Meluas",
+        "slug": "perang-dimulai",
+        "description": "Perlawanan menyebar ke berbagai wilayah Jawa Tengah dengan dukungan rakyat.",
+        "image": "/img/timeline/1825-sept.jpg"
+      }
+    ]
+  },
+  {
+    "year": 1826,
+    "title": "Puncak Kekuatan",
+    "events": [
+      {
+        "month": "Januari - Maret",
+        "title": "Konsolidasi Kekuatan",
+        "slug": "perang-dimulai",
+        "description": "Diponegoro mengkonsolidasikan kekuatan dan mendapat dukungan dari berbagai bupati.",
+        "image": "/img/timeline/1826-jan.jpg"
+      },
+      {
+        "month": "April - Juni",
+        "title": "Serangan ke Berbagai Wilayah",
+        "slug": "perang-dimulai",
+        "description": "Pasukan Diponegoro menyerang berbagai pos Belanda di Jawa Tengah.",
+        "image": "/img/timeline/1826-april.jpg"
+      },
+      {
+        "month": "Juli - Desember",
+        "title": "Penguasaan Wilayah",
+        "slug": "gerilya-1827",
+        "description": "Diponegoro menguasai sebagian besar wilayah Jawa Tengah dan sebagian Jawa Timur.",
+        "image": "/img/timeline/1826-juli.jpg"
+      }
+    ]
+  },
+  {
+    "year": 1827,
+    "title": "Perang Gerilya",
+    "events": [
+      {
+        "month": "Maret",
+        "title": "Strategi Gerilya Diterapkan",
+        "slug": "gerilya-1827",
+        "description": "Diponegoro mengubah strategi menjadi perang gerilya yang lebih efektif.",
+        "image": "/img/timeline/1827-maret.jpg"
+      },
+      {
+        "month": "September",
+        "title": "Benteng Stelsel Belanda",
+        "slug": "benteng-stelsel",
+        "description": "Jenderal de Kock menerapkan sistem benteng untuk membatasi ruang gerak perlawanan.",
+        "image": "/img/timeline/1827-sept.jpg"
+      }
+    ]
+  },
+  {
+    "year": 1828,
+    "title": "Perlawanan Berlanjut",
+    "events": [
+      {
+        "month": "April - Agustus",
+        "title": "Serangan Balik",
+        "slug": "serangan-balik-1828",
+        "description": "Pasukan Diponegoro melancarkan serangan balik terhadap benteng-benteng Belanda.",
+        "image": "/img/timeline/1828-april.jpg"
+      },
+      {
+        "month": "September - Desember",
+        "title": "Tekanan Semakin Besar",
+        "slug": "serangan-balik-1828",
+        "description": "Benteng Stelsel mulai efektif mempersempit ruang gerak pasukan Diponegoro.",
+        "image": "/img/timeline/1828-sept.jpg"
+      }
+    ]
+  },
+  {
+    "year": 1829,
+    "title": "Kekuatan Melemah",
+    "events": [
+      {
+        "month": "Januari - Juni",
+        "title": "Perlawanan Terpecah",
+        "slug": "serangan-balik-1828",
+        "description": "Beberapa pemimpin perlawanan menyerah atau tertangkap, kekuatan semakin melemah.",
+        "image": "/img/timeline/1829-jan.jpg"
+      },
+      {
+        "month": "Juli - Desember",
+        "title": "Negosiasi Dimulai",
+        "slug": "penangkapan-diponegoro",
+        "description": "Belanda mulai menawarkan perundingan damai kepada Diponegoro.",
+        "image": "/img/timeline/1829-juli.jpg"
+      }
+    ]
+  },
+  {
+    "year": 1830,
+    "title": "Akhir Perang",
+    "events": [
+      {
+        "month": "28 Maret",
+        "title": "Penangkapan Diponegoro",
+        "slug": "penangkapan-diponegoro",
+        "description": "Pangeran Diponegoro ditangkap saat perundingan damai di Magelang, mengakhiri Perang Jawa.",
+        "image": "/img/timeline/1830-maret.jpg"
+      }
+    ]
+  }
+]

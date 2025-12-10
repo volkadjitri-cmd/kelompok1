@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Pangeran Diponegoro",
+    "slug": "diponegoro",
+    "image": "/img/tokoh/diponegoro.jpg",
+    "bio": "Pangeran Diponegoro (1785-1855) adalah putra sulung Sultan Hamengkubuwono III dari selir. Beliau merupakan pemimpin utama Perang Jawa (1825-1830), perang terbesar yang pernah dihadapi pemerintah kolonial Belanda di Hindia Belanda. Diponegoro dikenal sebagai sosok yang religius, berani, dan memiliki karisma yang kuat. Ia memimpin perlawanan terhadap Belanda dengan semangat jihad dan perjuangan mempertahankan tanah air.",
+    "role": "Pemimpin Utama Perlawanan",
+    "birthYear": 1785,
+    "deathYear": 1855,
+    "relatedEvents": ["perang-dimulai", "gerilya-1827", "penangkapan-diponegoro"]
+  },
+  {
+    "name": "Kiai Mojo",
+    "slug": "kiai-mojo",
+    "image": "/img/tokoh/kiai-mojo.jpg",
+    "bio": "Kiai Mojo atau Kiai Muhammad Hasan Maulana adalah seorang ulama dan penasihat spiritual Pangeran Diponegoro. Beliau berperan penting dalam memberikan legitimasi religius terhadap perjuangan melawan penjajah Belanda. Kiai Mojo membantu menyebarkan semangat jihad dan mengorganisir dukungan rakyat dari kalangan santri dan masyarakat Muslim.",
+    "role": "Penasihat Spiritual",
+    "birthYear": 1792,
+    "deathYear": 1849,
+    "relatedEvents": ["perang-dimulai", "gerilya-1827"]
+  },
+  {
+    "name": "Sentot Alibasya Prawirodirjo",
+    "slug": "sentot-alibasya",
+    "image": "/img/tokoh/sentot-alibasya.jpg",
+    "bio": "Sentot Alibasya Prawirodirjo adalah seorang panglima perang yang sangat ditakuti oleh Belanda. Ia dikenal dengan keberaniannya dan kecerdikan taktis di medan perang. Sentot memimpin pasukan gerilya yang sangat efektif melawan tentara kolonial Belanda. Setelah Diponegoro ditangkap, Sentot sempat bergabung dengan Belanda namun kemudian diasingkan ke Bengkulu.",
+    "role": "Panglima Perang",
+    "birthYear": 1807,
+    "deathYear": 1855,
+    "relatedEvents": ["pertempuran-plered", "gerilya-1827", "serangan-balik-1828"]
+  },
+  {
+    "name": "Nyai Ageng Serang",
+    "slug": "nyai-ageng-serang",
+    "image": "/img/tokoh/nyai-ageng-serang.jpg",
+    "bio": "Nyai Ageng Serang atau Raden Ajeng Kustiyah adalah seorang pahlawan wanita dalam Perang Jawa. Ia adalah bangsawan dari Serang yang turut aktif memimpin perlawanan terhadap Belanda. Nyai Ageng Serang dikenal karena keberaniannya di medan perang dan perannya dalam mengorganisir perlawanan di wilayah Serang dan sekitarnya.",
+    "role": "Pemimpin Perlawanan Wanita",
+    "birthYear": 1760,
+    "deathYear": 1832,
+    "relatedEvents": ["pertempuran-plered", "gerilya-1827"]
+  },
+  {
+    "name": "Pangeran Mangkubumi",
+    "slug": "pangeran-mangkubumi",
+    "image": "/img/tokoh/pangeran-mangkubumi.jpg",
+    "bio": "Pangeran Mangkubumi adalah salah satu panglima penting dalam Perang Jawa. Beliau adalah kerabat Pangeran Diponegoro yang turut memimpin perlawanan di berbagai wilayah. Mangkubumi dikenal dengan kesetiaannya kepada Diponegoro dan perannya dalam berbagai pertempuran penting melawan pasukan kolonial Belanda.",
+    "role": "Panglima Perang",
+    "birthYear": 1790,
+    "deathYear": 1845,
+    "relatedEvents": ["perang-dimulai", "serangan-balik-1828"]
+  },
+  {
+    "name": "Tumenggung Prawirodigdoyo",
+    "slug": "prawirodigdoyo",
+    "image": "/img/tokoh/prawirodigdoyo.jpg",
+    "bio": "Tumenggung Prawirodigdoyo adalah salah satu pemimpin pasukan Diponegoro yang berasal dari kalangan bupati. Beliau memimpin perlawanan di wilayah Jawa Tengah dan dikenal karena keberaniannya dalam menghadapi pasukan Belanda yang lebih lengkap persenjataannya.",
+    "role": "Pemimpin Pasukan Daerah",
+    "birthYear": 1785,
+    "deathYear": 1830,
+    "relatedEvents": ["gerilya-1827", "serangan-balik-1828"]
+  }
+]
