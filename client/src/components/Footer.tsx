@@ -7,6 +7,7 @@ const members = [
   { name: "Dewa", role: "Researcher" },
   { name: "Pingki", role: "Content" },
   { name: "Nabilla", role: "Editor" },
+  { name: "Kaysan", role: "Hosting" },
 ];
 
 const navLinks = [
